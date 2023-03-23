@@ -1,5 +1,5 @@
-# 
-
+# outlier machine identification model
+The model aims at automating the identification of outlier machines using the data made by cybersecurity specialists 
 
 
 data can be accessed through:-
